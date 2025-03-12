@@ -1,0 +1,9 @@
+spring:
+  application:
+  name: java-config-kafka-consumer
+
+
+kafka:
+  bootstrap-servers: localhost:8090
+server:
+  port: 8091

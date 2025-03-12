@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-boot-kafka-producer
+
+server:
+  port: 8090
+
+kafka:
+  servers: localhost:9092
